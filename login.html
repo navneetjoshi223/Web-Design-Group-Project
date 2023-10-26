@@ -11,8 +11,48 @@
       crossorigin="anonymous"
     />
     <link href="styles/login.css" rel="stylesheet" />
+    <link rel="stylesheet" href="styles/homepage.css" />
   </head>
   <body>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-bgcolor">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img
+            src="media/logo.jpeg"
+            alt="VocaVerse"
+            width="150px"
+            height="auto"
+          />
+        </a>
+        <div
+          class="collapse navbar-collapse justify-content-end"
+          id="navbarNavDropdown"
+        >
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link text-white" href="#">Contact Us</a>
+            </li>
+            <li class="dropdown">
+              <a
+                class="nav-link dropdown-toggle text-white"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Services
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Mock Tests</a></li>
+                <li><a class="dropdown-item" href="#">Premium</a></li>
+                <li><a class="dropdown-item" href="#">Personal tutor</a></li>
+              </ul>
+            </li>
+          </ul>
+          
+        </div>
+      </div>
+    </nav>
     <div class="d-flex justify-content-center align-items-center login-card-container">
         <div class="background-image">
             
@@ -184,7 +224,7 @@
           toastBootstrap.show();
 
           setTimeout(() => {
-            // Navigate to landing page
+            window.location.href = "userHome.html";
           }, 3000);
         }
 
