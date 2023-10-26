@@ -1,5 +1,6 @@
 .navbar-bgcolor {
     background-color: #021f4c;
+<<<<<<< HEAD
 }
 
 .login {
@@ -206,3 +207,6 @@
     font-size: 18px;
     margin: 0 2px;
   }
+=======
+}
+>>>>>>> 8cb6980 (Added Navbar + language-selection images)
