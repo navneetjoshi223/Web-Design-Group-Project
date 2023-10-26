@@ -1,0 +1,59 @@
+.alert{
+    padding: 0.4rem 0.8rem; 
+    
+}
+/* .btn-group .btn {
+    margin-right: 1rem;
+}
+
+.btn-google {
+    color: #4285f4;
+}
+
+.btn-facebook {
+    color: #3b5998;
+} */
+
+
+
+.btn-group {
+    margin-bottom: 1rem;
+}
+
+.btn-group.w-100 {
+    width: 100%;
+}
+
+.btn-shadow {
+    box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+
+.btn-google {
+    color: #4285f4;
+}
+
+.btn-facebook {
+    color: #3b5998;
+}
+
+.btn-google:hover {
+    background-color: #eee;
+    color: #4285f4;
+}
+
+.btn-facebook:hover {
+    background-color: #d8d3d3;
+    color: #3b5998;
+}
+
+.btn-group.mt-2 {
+    margin-top: 2rem;
+}
+.btn-group a {
+   
+}
+
+.login-card-container {
+    height: 100vh;
+}
+ 
