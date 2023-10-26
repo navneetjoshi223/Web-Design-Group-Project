@@ -2,8 +2,8 @@
     background-color: #021f4c;
 }
 
-.vv-intro-card {
-    box-shadow: 0px 0 15px rgba(0, 0, 0, 0.1);
+.vv-card-intro, .vv-card-select-language {
+    box-shadow: 0px 0 15px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 
