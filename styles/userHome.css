@@ -1,0 +1,28 @@
+
+
+.notifications-margin{
+    margin-right: 20px;
+}
+.list-group-item {
+    margin-bottom: 10px; 
+}
+
+.row{
+    justify-content: center;
+}
+
+.custom-lesson{
+    width: 100%;
+    align-items: center;
+}
+
+.spanish-card-1 {
+    background-image: url('/media/image7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+  }
+ 
+
+
