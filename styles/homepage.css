@@ -1,7 +1,5 @@
 .navbar-bgcolor {
     background-color: #021f4c;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 
 .login {
@@ -35,8 +33,6 @@
     transform: scale(1.05);
     box-shadow: none;
     cursor: pointer;
-=======
->>>>>>> 7d749cc (Merged Navbar code with testimonials section)
 }
 
 .vv-intro-card {
@@ -229,11 +225,4 @@
   .team .member .social i {
     font-size: 18px;
     margin: 0 2px;
-<<<<<<< HEAD
   }
-=======
-}
->>>>>>> 8cb6980 (Added Navbar + language-selection images)
-=======
-  }
->>>>>>> 7d749cc (Merged Navbar code with testimonials section)
