@@ -46,8 +46,8 @@ Bootstrap components used:
     To show additional details of each lesson in active courses
 16. Progress
     To show completion level of a language course
-
-
+17. List-group
+    To display different list items when clicking on button with feature of offCanvas.
 
 
 
