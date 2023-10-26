@@ -35,26 +35,6 @@
     cursor: pointer;
 }
 
-.vv-intro-card {
-    box-shadow: 0px 0 15px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-}
-
-.country {
-    width: 90%;
-    height: 90%;
-}
-
-.card-language {
-    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-}
-
-.card-language:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-}
-
 /*Testimonials Section */
 .testimonials .testimonial-wrap {
     padding-left: 10px;
